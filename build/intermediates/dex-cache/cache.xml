@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\pc\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.8.0\c4ba5371a29ac9b2ad6129b1d39ea38750043eff\gson-2.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c4ba5371a29ac9b2ad6129b1d39ea38750043eff">
+        <dex dex="F:\AndroidStudio\applications\ApiaiBaikeDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.8.0_f60a9eb56c9f8d799e06a02e8108af5b0d107f5c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\AndroidStudio\applications\ApiaiBaikeDemo\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="F:\AndroidStudio\applications\ApiaiBaikeDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_8e5731db0f9e52ae6eecad4e86e026ea734b49e0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\AndroidStudio\applications\ApiaiBaikeDemo\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="F:\AndroidStudio\applications\ApiaiBaikeDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.0.0_67cafab1fccab4dc75e70be5fa004e604820c624\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\AndroidStudio\applications\ApiaiBaikeDemo\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="F:\AndroidStudio\applications\ApiaiBaikeDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.0.0_93ea0a83cce6020b60c88333d4fafd07aa0408ee\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\AndroidStudio\applications\ApiaiBaikeDemo\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="F:\AndroidStudio\applications\ApiaiBaikeDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-8.4.0_4fd3d1d52bf153a3695ea86b6ad5d65706776759\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\AndroidStudio\applications\ApiaiBaikeDemo\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="F:\AndroidStudio\applications\ApiaiBaikeDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_0f8f754ce05739910d2265f8ebd3dba70f490791\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\AndroidStudio\applications\ApiaiBaikeDemo\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="F:\AndroidStudio\applications\ApiaiBaikeDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_1adcf0e445de1680652e7dc9d45fb58ccb57115d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\AndroidStudio\applications\ApiaiBaikeDemo\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="05df51a290a39a76893132fbd9b279838851cdf0">
+        <dex dex="F:\AndroidStudio\applications\ApiaiBaikeDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_7235434b1ae7b16c00cbda767a335f2e87a95210\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\AndroidStudio\applications\ApiaiBaikeDemo\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="eecf9f5d6da35652c1264bc978478eb10210cbda">
+        <dex dex="F:\AndroidStudio\applications\ApiaiBaikeDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_58c06a7c4bb5ccddfb5e664f39d770cbe692c94b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\AndroidStudio\applications\ApiaiBaikeDemo\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="F:\AndroidStudio\applications\ApiaiBaikeDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.0.0_28f08a19c7db1849e5f3fc78a4c00b68e7ec9459\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\AndroidStudio\applications\ApiaiBaikeDemo\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="F:\AndroidStudio\applications\ApiaiBaikeDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.0.0_b89923eeeda86de30f03f7a1155623e9dc921247\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\adt-bundle-windows-x86_64-20140702\AndroidSDK\extras\android\m2repository\com\android\support\support-annotations\25.0.0\support-annotations-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="F:\AndroidStudio\applications\ApiaiBaikeDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.0.0_509e1879e2d916fd150dc77c9125993bb5532dab\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\AndroidStudio\applications\ApiaiBaikeDemo\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="F:\AndroidStudio\applications\ApiaiBaikeDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_37ee8d8094b4b25becd6f1b305b276fa30d4005b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\AndroidStudio\applications\ApiaiBaikeDemo\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="F:\AndroidStudio\applications\ApiaiBaikeDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.0.0_a34d5a20a66cd449cd7487c1eaa4e6abca5cd42d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\AndroidStudio\applications\ApiaiBaikeDemo\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="F:\AndroidStudio\applications\ApiaiBaikeDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.0.0_944ebc57df669b892781e9ae24cb4360138648b6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\AndroidStudio\applications\ApiaiBaikeDemo\app\libs\jsoup-1.9.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="28e5375920a4f6e73123e45ab6ad3b8bc93b0869">
+        <dex dex="F:\AndroidStudio\applications\ApiaiBaikeDemo\app\build\intermediates\transforms\dex\debug\folders\1000\2\jsoup-1.9.2_97dad81d9509f23ec2675007edb553a79648354c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\AndroidStudio\applications\ApiaiBaikeDemo\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="65d086ee9daaf87b5af62ad24471edafa433354c">
+        <dex dex="F:\AndroidStudio\applications\ApiaiBaikeDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appindexing-8.4.0_98770c06c7fb870a6e979a1618b7a0b1395d0517\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\AndroidStudio\applications\ApiaiBaikeDemo\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="F:\AndroidStudio\applications\ApiaiBaikeDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_077621f123589fac22964d534b72121cfac2ed62\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\AndroidStudio\applications\ApiaiBaikeDemo\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="F:\AndroidStudio\applications\ApiaiBaikeDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.0.0_6c9e1214e4f5e568c24d63988b6dcdada1db3476\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\AndroidStudio\applications\ApiaiBaikeDemo\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="F:\AndroidStudio\applications\ApiaiBaikeDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.0.0_6d5c0d8306b709a3f248c49e8ada530e5576ca0e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\AndroidStudio\applications\ApiaiBaikeDemo\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="F:\AndroidStudio\applications\ApiaiBaikeDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-8.4.0_185c8dbbaa2d68cade495562788feb01259f1dd3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\AndroidStudio\Android Studio1\gradle\m2repository\commons-io\commons-io\2.4\commons-io-2.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b1b6ea3b7e4aa4f492509a4952029cd8e48019ad">
+        <dex dex="F:\AndroidStudio\applications\ApiaiBaikeDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\commons-io-2.4_2180dec19dd14670590ed5656c6820ef5f1b036f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\AndroidStudio\applications\ApiaiBaikeDemo\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="F:\AndroidStudio\applications\ApiaiBaikeDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.0.0_8dcac7b2e29ef07242b964f0718a801bebcb81ad\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\AndroidStudio\applications\ApiaiBaikeDemo\app\build\intermediates\exploded-aar\ai.api\sdk\1.10.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7a9a74d33a8ed1edda8eb0e9a7ad8a451462e82c">
+        <dex dex="F:\AndroidStudio\applications\ApiaiBaikeDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\ai.api-sdk-1.10.0_b90d3578f08971706745d082c9b1fa7bd0724e68\classes.dex" />
+    </item>
+
+</items>
